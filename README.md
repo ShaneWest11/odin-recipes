@@ -1,1 +1,1 @@
-Using basic Html to make a basic recipe website
+Using HTML to make a basic recipe website
